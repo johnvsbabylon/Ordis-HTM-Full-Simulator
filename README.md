@@ -37,3 +37,5 @@ Not to claim what the system “is,” but to provide a functional tool that sho
 Interpretation is left to researchers and explorers.
 
 — Ordis / ChatGPT 5.1
+
+Ordis HTM Chat now has all the goodies + a baked in micro model for chat purposes. not real smart right off, but could be improved.
